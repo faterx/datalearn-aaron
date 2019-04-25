@@ -1,0 +1,13 @@
+基本命令：
+git init        建立一个新的repository
+git clone       克隆一个repository
+git add         加入新的内容到缓存区
+git commit      实际提交改动
+git push        推送改动到远端
+git checkout -b 做一个分支branch
+git pull        获取并合并远端的版本(fetch+merge)
+git merge       合并其他版本，遇到冲突怎么办？
+git log         查看记录
+
+本机的操作流程
+工作区 - add -> 暂存区 - commit -> 代码库
